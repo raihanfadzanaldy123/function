@@ -10,3 +10,5 @@ echo tambah_string ($str). "<br>";
 echo "\$str = $str<br>";
 
 ?>
+
+
